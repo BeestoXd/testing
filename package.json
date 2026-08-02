@@ -1,0 +1,17 @@
+{
+  "name": "github-contribution-hack",
+  "version": "1.0.0",
+  "description": "Pure JavaScript tool for automated Git commits with random commit count per day from January 2026 to date.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "github",
+    "contributions",
+    "commit-hack",
+    "git"
+  ],
+  "author": "BeestoXd",
+  "license": "MIT"
+}
